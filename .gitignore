@@ -1,0 +1,6 @@
+# IDE Cruft
+.idea
+
+# Zig outputs
+.zig-cache
+zig-out
